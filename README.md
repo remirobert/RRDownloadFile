@@ -1,6 +1,6 @@
 <h1 align="center">RRDownloadFile</h1>
 
-Allows you to download file from url and store it in the memory. Available only for iOS 7.0+. You can pause, resume or cancel a download, when you want. It works also in background task, so you can download file when the application is in background or close by the user. RRDownloadFile uses NSURLSession for download the file.
+Allows you to download files from url and store them in the device disk. Available only for iOS 7.0+. You can pause, resume or cancel a download, when and where you want. It works also in background task, so you can download file when the application is in background or close by the user. RRDownloadFile uses NSURLSession for make the download.
 
 <h3 align="center">Usage</h3>
 Simple Download:
